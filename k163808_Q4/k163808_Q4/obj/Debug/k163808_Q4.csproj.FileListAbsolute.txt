@@ -1,0 +1,9 @@
+C:\Users\saad\source\repos\k163808_Q4\k163808_Q4\bin\Debug\k163808_Q4.exe.config
+C:\Users\saad\source\repos\k163808_Q4\k163808_Q4\bin\Debug\k163808_Q4.exe
+C:\Users\saad\source\repos\k163808_Q4\k163808_Q4\bin\Debug\k163808_Q4.pdb
+C:\Users\saad\source\repos\k163808_Q4\k163808_Q4\obj\Debug\k163808_Q4.csprojAssemblyReference.cache
+C:\Users\saad\source\repos\k163808_Q4\k163808_Q4\obj\Debug\k163808_Q4.ProjectInstaller.resources
+C:\Users\saad\source\repos\k163808_Q4\k163808_Q4\obj\Debug\k163808_Q4.csproj.GenerateResource.cache
+C:\Users\saad\source\repos\k163808_Q4\k163808_Q4\obj\Debug\k163808_Q4.csproj.CoreCompileInputs.cache
+C:\Users\saad\source\repos\k163808_Q4\k163808_Q4\obj\Debug\k163808_Q4.exe
+C:\Users\saad\source\repos\k163808_Q4\k163808_Q4\obj\Debug\k163808_Q4.pdb

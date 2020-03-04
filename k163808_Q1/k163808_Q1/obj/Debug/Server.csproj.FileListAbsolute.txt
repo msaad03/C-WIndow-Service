@@ -1,0 +1,14 @@
+C:\Users\saad\source\repos\k163808_Q1\k163808_Q1\bin\Debug\k163808_Q1.exe.config
+C:\Users\saad\source\repos\k163808_Q1\k163808_Q1\bin\Debug\k163808_Q1.exe
+C:\Users\saad\source\repos\k163808_Q1\k163808_Q1\bin\Debug\k163808_Q1.pdb
+C:\Users\saad\source\repos\k163808_Q1\k163808_Q1\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Users\saad\source\repos\k163808_Q1\k163808_Q1\obj\Debug\k163808_Q1.exe
+C:\Users\saad\source\repos\k163808_Q1\k163808_Q1\obj\Debug\k163808_Q1.pdb
+C:\Users\TEMP\Desktop\New folder\k163808_Q1\k163808_Q1\bin\Debug\k163808_Q1.exe.config
+C:\Users\TEMP\Desktop\New folder\k163808_Q1\k163808_Q1\bin\Debug\k163808_Q1.exe
+C:\Users\TEMP\Desktop\New folder\k163808_Q1\k163808_Q1\bin\Debug\k163808_Q1.pdb
+C:\Users\TEMP\Desktop\New folder\k163808_Q1\k163808_Q1\obj\Debug\Server.csprojAssemblyReference.cache
+C:\Users\TEMP\Desktop\New folder\k163808_Q1\k163808_Q1\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Users\TEMP\Desktop\New folder\k163808_Q1\k163808_Q1\obj\Debug\k163808_Q1.exe
+C:\Users\TEMP\Desktop\New folder\k163808_Q1\k163808_Q1\obj\Debug\k163808_Q1.pdb
+C:\Users\saad\source\repos\k163808_Q1\k163808_Q1\obj\Debug\Server.csprojAssemblyReference.cache

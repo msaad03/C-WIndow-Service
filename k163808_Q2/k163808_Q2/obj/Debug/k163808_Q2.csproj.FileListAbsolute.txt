@@ -1,0 +1,10 @@
+C:\Users\saad\source\repos\k163808_Q2\k163808_Q2\bin\Debug\k163808_Q2.exe.config
+C:\Users\saad\source\repos\k163808_Q2\k163808_Q2\bin\Debug\k163808_Q2.exe
+C:\Users\saad\source\repos\k163808_Q2\k163808_Q2\bin\Debug\k163808_Q2.pdb
+C:\Users\saad\source\repos\k163808_Q2\k163808_Q2\obj\Debug\k163808_Q2.csprojAssemblyReference.cache
+C:\Users\saad\source\repos\k163808_Q2\k163808_Q2\obj\Debug\k163808_Q2.Form1.resources
+C:\Users\saad\source\repos\k163808_Q2\k163808_Q2\obj\Debug\k163808_Q2.Properties.Resources.resources
+C:\Users\saad\source\repos\k163808_Q2\k163808_Q2\obj\Debug\k163808_Q2.csproj.GenerateResource.cache
+C:\Users\saad\source\repos\k163808_Q2\k163808_Q2\obj\Debug\k163808_Q2.csproj.CoreCompileInputs.cache
+C:\Users\saad\source\repos\k163808_Q2\k163808_Q2\obj\Debug\k163808_Q2.exe
+C:\Users\saad\source\repos\k163808_Q2\k163808_Q2\obj\Debug\k163808_Q2.pdb

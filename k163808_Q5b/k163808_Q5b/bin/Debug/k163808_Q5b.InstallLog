@@ -1,0 +1,34 @@
+﻿Installing assembly 'C:\Users\saad\source\repos\k163808_Q5b\k163808_Q5b\bin\Debug\k163808_Q5b.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\saad\source\repos\k163808_Q5b\k163808_Q5b\bin\Debug\k163808_Q5b.InstallLog
+   assemblypath = C:\Users\saad\source\repos\k163808_Q5b\k163808_Q5b\bin\Debug\k163808_Q5b.exe
+Installing service k163808_Q5b...
+Service k163808_Q5b has been successfully installed.
+Creating EventLog source k163808_Q5b in log Application...
+Committing assembly 'C:\Users\saad\source\repos\k163808_Q5b\k163808_Q5b\bin\Debug\k163808_Q5b.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\saad\source\repos\k163808_Q5b\k163808_Q5b\bin\Debug\k163808_Q5b.InstallLog
+   assemblypath = C:\Users\saad\source\repos\k163808_Q5b\k163808_Q5b\bin\Debug\k163808_Q5b.exe
+Uninstalling assembly 'C:\Users\saad\source\repos\k163808_Q5b\k163808_Q5b\bin\Debug\k163808_Q5b.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\saad\source\repos\k163808_Q5b\k163808_Q5b\bin\Debug\k163808_Q5b.InstallLog
+   assemblypath = C:\Users\saad\source\repos\k163808_Q5b\k163808_Q5b\bin\Debug\k163808_Q5b.exe
+Removing EventLog source k163808_Q5b.
+Service k163808_Q5b is being removed from the system...
+Service k163808_Q5b was successfully removed from the system.
+Installing assembly 'C:\Users\saad\source\repos\k163808_Q5b\k163808_Q5b\bin\Debug\k163808_Q5b.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\saad\source\repos\k163808_Q5b\k163808_Q5b\bin\Debug\k163808_Q5b.InstallLog
+   assemblypath = C:\Users\saad\source\repos\k163808_Q5b\k163808_Q5b\bin\Debug\k163808_Q5b.exe
+Installing service k163808_Q5b...
+Service k163808_Q5b has been successfully installed.
+Creating EventLog source k163808_Q5b in log Application...
+Committing assembly 'C:\Users\saad\source\repos\k163808_Q5b\k163808_Q5b\bin\Debug\k163808_Q5b.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\saad\source\repos\k163808_Q5b\k163808_Q5b\bin\Debug\k163808_Q5b.InstallLog
+   assemblypath = C:\Users\saad\source\repos\k163808_Q5b\k163808_Q5b\bin\Debug\k163808_Q5b.exe

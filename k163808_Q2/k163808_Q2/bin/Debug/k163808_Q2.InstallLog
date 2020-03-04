@@ -1,0 +1,25 @@
+﻿Installing assembly 'C:\Users\saad\source\repos\k163808_Q2\k163808_Q2\bin\Debug\k163808_Q2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\saad\source\repos\k163808_Q2\k163808_Q2\bin\Debug\k163808_Q2.InstallLog
+   assemblypath = C:\Users\saad\source\repos\k163808_Q2\k163808_Q2\bin\Debug\k163808_Q2.exe
+No public installers with the RunInstallerAttribute.Yes attribute could be found in the C:\Users\saad\source\repos\k163808_Q2\k163808_Q2\bin\Debug\k163808_Q2.exe assembly.
+Committing assembly 'C:\Users\saad\source\repos\k163808_Q2\k163808_Q2\bin\Debug\k163808_Q2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\saad\source\repos\k163808_Q2\k163808_Q2\bin\Debug\k163808_Q2.InstallLog
+   assemblypath = C:\Users\saad\source\repos\k163808_Q2\k163808_Q2\bin\Debug\k163808_Q2.exe
+No public installers with the RunInstallerAttribute.Yes attribute could be found in the C:\Users\saad\source\repos\k163808_Q2\k163808_Q2\bin\Debug\k163808_Q2.exe assembly.
+Remove InstallState file because there are no installers.
+Uninstalling assembly 'C:\Users\saad\source\repos\k163808_Q2\k163808_Q2\bin\Debug\k163808_Q2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\saad\source\repos\k163808_Q2\k163808_Q2\bin\Debug\k163808_Q2.InstallLog
+   assemblypath = C:\Users\saad\source\repos\k163808_Q2\k163808_Q2\bin\Debug\k163808_Q2.exe
+No public installers with the RunInstallerAttribute.Yes attribute could be found in the C:\Users\saad\source\repos\k163808_Q2\k163808_Q2\bin\Debug\k163808_Q2.exe assembly.
+Uninstalling assembly 'C:\Users\saad\source\repos\k163808_Q2\k163808_Q2\bin\Debug\k163808_Q2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\saad\source\repos\k163808_Q2\k163808_Q2\bin\Debug\k163808_Q2.InstallLog
+   assemblypath = C:\Users\saad\source\repos\k163808_Q2\k163808_Q2\bin\Debug\k163808_Q2.exe
+No public installers with the RunInstallerAttribute.Yes attribute could be found in the C:\Users\saad\source\repos\k163808_Q2\k163808_Q2\bin\Debug\k163808_Q2.exe assembly.

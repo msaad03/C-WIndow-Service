@@ -1,0 +1,9 @@
+C:\Users\saad\source\repos\k163808_Q5a\k163808_Q5a\bin\Debug\k163808_Q5a.exe.config
+C:\Users\saad\source\repos\k163808_Q5a\k163808_Q5a\bin\Debug\k163808_Q5a.exe
+C:\Users\saad\source\repos\k163808_Q5a\k163808_Q5a\bin\Debug\k163808_Q5a.pdb
+C:\Users\saad\source\repos\k163808_Q5a\k163808_Q5a\obj\Debug\k163808_Q5a.csprojAssemblyReference.cache
+C:\Users\saad\source\repos\k163808_Q5a\k163808_Q5a\obj\Debug\k163808_Q5a.csproj.CoreCompileInputs.cache
+C:\Users\saad\source\repos\k163808_Q5a\k163808_Q5a\obj\Debug\k163808_Q5a.exe
+C:\Users\saad\source\repos\k163808_Q5a\k163808_Q5a\obj\Debug\k163808_Q5a.pdb
+C:\Users\saad\source\repos\k163808_Q5a\k163808_Q5a\obj\Debug\k163808_Q5a.ProjectInstaller.resources
+C:\Users\saad\source\repos\k163808_Q5a\k163808_Q5a\obj\Debug\k163808_Q5a.csproj.GenerateResource.cache

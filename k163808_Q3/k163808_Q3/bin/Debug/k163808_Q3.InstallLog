@@ -1,0 +1,29 @@
+﻿Installing assembly 'C:\Users\saad\source\repos\k163808_Q3\k163808_Q3\bin\Debug\k163808_Q3.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\saad\source\repos\k163808_Q3\k163808_Q3\bin\Debug\k163808_Q3.InstallLog
+   assemblypath = C:\Users\saad\source\repos\k163808_Q3\k163808_Q3\bin\Debug\k163808_Q3.exe
+Installing service k163808_Q3...
+Creating EventLog source k163808_Q3 in log Application...
+Rolling back assembly 'C:\Users\saad\source\repos\k163808_Q3\k163808_Q3\bin\Debug\k163808_Q3.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\saad\source\repos\k163808_Q3\k163808_Q3\bin\Debug\k163808_Q3.InstallLog
+   assemblypath = C:\Users\saad\source\repos\k163808_Q3\k163808_Q3\bin\Debug\k163808_Q3.exe
+Restoring event log to previous state for source k163808_Q3.
+An exception occurred during the Rollback phase of the System.Diagnostics.EventLogInstaller installer.
+System.Security.SecurityException: The source was not found, but some or all event logs could not be searched.  Inaccessible logs: Security, State.
+An exception occurred during the Rollback phase of the installation. This exception will be ignored and the rollback will continue. However, the machine might not fully revert to its initial state after the rollback is complete.
+Installing assembly 'C:\Users\saad\source\repos\k163808_Q3\k163808_Q3\bin\Debug\k163808_Q3.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\saad\source\repos\k163808_Q3\k163808_Q3\bin\Debug\k163808_Q3.InstallLog
+   assemblypath = C:\Users\saad\source\repos\k163808_Q3\k163808_Q3\bin\Debug\k163808_Q3.exe
+Installing service k163808_Q3...
+Service k163808_Q3 has been successfully installed.
+Creating EventLog source k163808_Q3 in log Application...
+Committing assembly 'C:\Users\saad\source\repos\k163808_Q3\k163808_Q3\bin\Debug\k163808_Q3.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\saad\source\repos\k163808_Q3\k163808_Q3\bin\Debug\k163808_Q3.InstallLog
+   assemblypath = C:\Users\saad\source\repos\k163808_Q3\k163808_Q3\bin\Debug\k163808_Q3.exe

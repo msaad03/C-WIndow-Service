@@ -1,0 +1,34 @@
+﻿Installing assembly 'C:\Users\saad\source\repos\k163808_Q4\k163808_Q4\bin\Debug\k163808_Q4.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\saad\source\repos\k163808_Q4\k163808_Q4\bin\Debug\k163808_Q4.InstallLog
+   assemblypath = C:\Users\saad\source\repos\k163808_Q4\k163808_Q4\bin\Debug\k163808_Q4.exe
+Installing service k163808_Q4...
+Service k163808_Q4 has been successfully installed.
+Creating EventLog source k163808_Q4 in log Application...
+Committing assembly 'C:\Users\saad\source\repos\k163808_Q4\k163808_Q4\bin\Debug\k163808_Q4.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\saad\source\repos\k163808_Q4\k163808_Q4\bin\Debug\k163808_Q4.InstallLog
+   assemblypath = C:\Users\saad\source\repos\k163808_Q4\k163808_Q4\bin\Debug\k163808_Q4.exe
+Uninstalling assembly 'C:\Users\saad\source\repos\k163808_Q4\k163808_Q4\bin\Debug\k163808_Q4.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\saad\source\repos\k163808_Q4\k163808_Q4\bin\Debug\k163808_Q4.InstallLog
+   assemblypath = C:\Users\saad\source\repos\k163808_Q4\k163808_Q4\bin\Debug\k163808_Q4.exe
+Removing EventLog source k163808_Q4.
+Service k163808_Q4 is being removed from the system...
+Service k163808_Q4 was successfully removed from the system.
+Installing assembly 'C:\Users\saad\source\repos\k163808_Q4\k163808_Q4\bin\Debug\k163808_Q4.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\saad\source\repos\k163808_Q4\k163808_Q4\bin\Debug\k163808_Q4.InstallLog
+   assemblypath = C:\Users\saad\source\repos\k163808_Q4\k163808_Q4\bin\Debug\k163808_Q4.exe
+Installing service k163808_Q4...
+Service k163808_Q4 has been successfully installed.
+Creating EventLog source k163808_Q4 in log Application...
+Committing assembly 'C:\Users\saad\source\repos\k163808_Q4\k163808_Q4\bin\Debug\k163808_Q4.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\saad\source\repos\k163808_Q4\k163808_Q4\bin\Debug\k163808_Q4.InstallLog
+   assemblypath = C:\Users\saad\source\repos\k163808_Q4\k163808_Q4\bin\Debug\k163808_Q4.exe
